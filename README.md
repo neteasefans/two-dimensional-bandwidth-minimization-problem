@@ -1,5 +1,7 @@
 # two-dimensional-bandwidth-minimization-problem
-The two sets of 90 benchmark instances used in our draft titled with "Reinforcement learning driven heuristic for two-dimensional bandwidth minimization" are publicly available at https://www.heuristicas.es/. The source code of the proposed RLTS algorithm will be made available upon the publication of the paper.
+The two sets of 90 benchmark instances used in our draft titled with "Reinforcement learning driven heuristic for two-dimensional bandwidth minimization" are publicly available at https://www.heuristicas.es/.  To facilitate the further research, we upload the instances here.
+
+The source code of the proposed RLTS algorithm will be made available upon the publication of the paper.
 
 Reference papers to the two-dimensional bandwidth minimization (2DBMP):
 
