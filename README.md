@@ -14,3 +14,25 @@ Reference papers to the two-dimensional bandwidth minimization (2DBMP):
 [4].Khandelwal, A., Srivastava, K., & Saran, G. (2023a). Grid bandwidth minimization problem: simulated annealing approach. Mapana Journal of Sciences, 22 
 
 [5]. Khandelwal, A., Srivastava, K., & Saran, G. (2023b). A reduced variable neighbourhood search algorithm for grid bandwidth minimization problem. In 2023 7th International Conference on Intelligent Computing and Control Systems (ICICCS) (pp. 795–800). IEEE.
+
+** Instructions to use the source code of RLTS
+
+*** To compile:
+
+q.zhou$ make
+
+q.zhou$
+
+*** To run:
+
+q.zhou$ ./RLTS_2DBMP ./input_file counts seed
+
+(where input_file is the instance name, counts is the number of independent runs, seed is the random seed, such as 1, 2, ... counts)
+
+q.zhou$
+
+*** To clean
+
+q.zhou$ make clean
+
+q.zhou$
