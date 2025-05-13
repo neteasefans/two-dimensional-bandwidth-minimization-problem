@@ -25,9 +25,9 @@ q.zhou$
 
 *** To run:
 
-q.zhou$ ./RLTS_2DBMP ./input_file counts seed
+q.zhou$ ./RLTS_2DBMP ./input_file times seed ./output_file
 
-(where input_file is the instance name, counts is the number of independent runs, seed is the random seed, such as 1, 2, ... counts)
+(where input_file is the instance name, times is the number of independent runs, seed is the given random seed, such as 1, 2, ... times, output_file is the output file name)
 
 q.zhou$
 
