@@ -1,5 +1,5 @@
 
-OUTPUT:=RLTS
+OUTPUT:=RLTS_2DBMP
 
 SRC_DIR=./src/
 OBJS_DIR=./obj
