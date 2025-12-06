@@ -1,6 +1,18 @@
 # Reinforcement learning driven heuristic for two-dimensional bandwidth minimization
 The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper _Reinforcement learning driven heuristic for two-dimensional bandwidth minimization_ by Q. Zhou, M. Gao, and J.K. Hao.
 
+## Cite
+Please cite the paper like this:
+```
+@article{zhou2025reinforcement,
+  title={Reinforcement learning driven heuristic for two-dimensional bandwidth minimization},
+  author={Zhou, Qing and Gao, Ming and Hao, Jin-Kao},
+  journal={Applied Soft Computing},
+  pages={114327},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 ## How to run the programs.
 ** Instructions to use the source code of the proposed RLTS
