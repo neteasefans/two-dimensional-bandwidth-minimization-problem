@@ -4,13 +4,16 @@ The software and data in this repository are a snapshot of the software and data
 ## Cite
 Please cite the paper like this:
 ```
-@article{zhou2025reinforcement,
-  title={Reinforcement learning driven heuristic for two-dimensional bandwidth minimization},
-  author={Zhou, Qing and Gao, Ming and Hao, Jin-Kao},
-  journal={Applied Soft Computing},
-  pages={114327},
-  year={2025},
-  publisher={Elsevier}
+@article{ZHOU2026114327,
+title = {Reinforcement learning driven heuristic for two-dimensional bandwidth minimization},
+journal = {Applied Soft Computing},
+volume = {187},
+pages = {114327},
+year = {2026},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2025.114327},
+url = {https://www.sciencedirect.com/science/article/pii/S1568494625016400},
+author = {Qing Zhou and Ming Gao and Jin-Kao Hao}
 }
 ```
 
