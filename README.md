@@ -3,7 +3,7 @@ The software and data in this repository are a snapshot of the software and data
 
 
 ## How to run the programs.
-** Instructions to use the source code of RLTS
+** Instructions to use the source code of the proposed RLTS
 
 *** To compile:
 
